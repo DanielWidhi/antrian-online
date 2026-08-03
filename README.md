@@ -40,3 +40,4 @@ npm install @supabase/supabase-js lucide-react
 npx shadcn@latest init
 npx shadcn@latest add button card input
 npx shadcn@latest add select dialog
+npx shadcn@latest add table badge
